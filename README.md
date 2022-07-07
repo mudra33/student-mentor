@@ -2,10 +2,9 @@
 
 <h5>Mentor and Student Assigning with Database API development</h5>
 <br>
-Heroku Url : https://eduhub-karthee.herokuapp.com/
+Heroku Url : https://eduhub-mudra.herokuapp.com/
 <br>
 <br>
-Link to FrontEnd : https://github.com/kar-thee/zen-assignment-web-dev-task-eduHub
 <br><br>
 <ul>
 TASK: 
